@@ -22,8 +22,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burnox&layout=donut&theme=tokyonight"/>
 </div>
  
-![Snake animation](https://github.com/burnox/burnox/blob/output/github-contribution-grid-snake.svg)
- 
 ##
   
 ### Redes Sociais
@@ -33,14 +31,3 @@
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<!--
-**Burnox/burnox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Hoje estou focando para ser FullStack.
-- 🌱 Estou me aprofundando em JavaScript e futuramente quero avançar mais em Java.
-- 📫 Contato: blu.uchoa@gmail.com
-- 😄 Pronome: Ele/dele
-- ⚡ Fun fact: Antes de começar a estudar programação, eu achava que era tudo como nos filmes.
--->
